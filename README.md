@@ -1,2 +1,3 @@
-# RSSReact
-RSSchool React Task
+# RSSchool React Forms Task
+
+[Deploy](https://rssforms.vercel.app/)
